@@ -1,0 +1,30 @@
+h1{
+	background-color: #33BEBE;
+	padding-top:35px;
+	color: white;
+	font-size: 55px;
+	font-family: "Helvetica", sans-serif;
+	font-weight: 100;
+}
+p{
+	margin: 25px;
+}
+img{
+	width: 35%;
+}
+.text{
+	color: #7C8B88;
+	font-size: 25px;
+	width: calc(65% - 25px);
+	position: relative;
+	top: -25px;
+}
+
+.content-all{
+	margin: 200px;
+
+}
+.content{
+	display: flex;
+}
+
